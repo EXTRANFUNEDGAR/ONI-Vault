@@ -131,6 +131,3 @@ Edgar Enrique Delgado Sánchez
 
 ---
 
-## 🛡️ Licencia
-
-MIT
