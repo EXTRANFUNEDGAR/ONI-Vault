@@ -1,0 +1,40 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs
+logs
+*.log
+*.pid
+*.seed
+*.pid.lock
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env files
+backend/.env
+
+# Build output
+dist/
+build/
+
+# Vite
+.vite/
+
+# Editor config
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Uploads
+backend/uploads/
+
+# Postgres (si usas volúmenes locales)
+*.pgsql
+*.sql
+*.dump
